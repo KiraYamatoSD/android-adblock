@@ -27,6 +27,7 @@
 127.0.0.1 z.moatads.com
 127.0.0.1 static.criteo.net
 127.0.0.1 playwire.com
+127.0.0.1 config.playwire.com
 127.0.0.1 cdn.playwire.com
 127.0.0.1 cdn.video.playwire.com
 127.0.0.1 bluekai.com
@@ -63,3 +64,6 @@
 127.0.0.1 ima3vpaid.appspot.com
 127.0.0.1 epiphanyai.com
 127.0.0.1 platform.epiphanyai.com
+127.0.0.1 intergi.com
+127.0.0.1 cdn.intergi.com
+
