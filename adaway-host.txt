@@ -1,0 +1,20 @@
+# AdAway default blocklist
+# Blocking mobile ad providers and some analytics providers
+# 
+# Contribute:
+# Create an issue at https://github.com/AdAway/AdAway/issues
+#
+# Changelog:
+# 2017-12-18 First Host List
+# 
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+#
+# Contributions by:
+# KiraYamatoSD
+#
+
+127.0.0.1  localhost
+::1  localhost
+
+
