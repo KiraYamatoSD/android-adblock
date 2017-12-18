@@ -32,7 +32,7 @@
 127.0.0.1 bluekai.com
 127.0.0.1 mc.yandex.ru
 127.0.0.1 cdn.intergi.com
-127.0.0.1 ichnaea.netflix.comc
+127.0.0.1 ichnaea.netflix.com
 127.0.0.1 lkqd.net
 127.0.0.1 t.lkqd.net
 127.0.0.1 v.lkqd.net
