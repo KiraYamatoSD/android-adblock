@@ -17,4 +17,13 @@
 127.0.0.1  localhost
 ::1  localhost
 
-
+# [ReadLightNovel]
+127.0.0.1 revcontent.com
+127.0.0.1 memevideoad.com
+127.0.0.1 vd.nimem.com
+127.0.0.1 static.criteo.net
+127.0.0.1 cdn.playwire.com
+127.0.0.1 playwire.com
+127.0.0.1 bluekai.com
+127.0.0.1 mc.yandex.ru
+127.0.0.1 cdn.intergi.com
